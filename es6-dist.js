@@ -1,2 +1,0 @@
-"use strict";var nombre="kike",nombre2="kike",nombre4="kike",nombre5="kike",nombre6="kike",nombre7="kike",nombredd="kike",nombrffge="kike",nombrfgfe="kike",nombrdfgdfdfe="kike",nombref="kike",nombtyure="kike",nombykukre="kike";
-//# sourceMappingURL=es6-dist.js.map
